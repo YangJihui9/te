@@ -325,7 +325,7 @@
         </input>
         <input>
           <key>MODULATION_TYPE</key>
-          <value>serializableObject:EnumDataItem:7</value>
+          <value>serializableObject:EnumDataItem:1</value>
         </input>
         <input>
           <key>NUMBER_OF_TIMING_WINDOWS</key>
