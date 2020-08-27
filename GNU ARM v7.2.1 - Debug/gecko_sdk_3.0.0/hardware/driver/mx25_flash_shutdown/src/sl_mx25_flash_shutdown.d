@@ -64,7 +64,7 @@ gecko_sdk_3.0.0/hardware/driver/mx25_flash_shutdown/src/sl_mx25_flash_shutdown.o
  c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\emlib\inc\em_gpio.h \
  c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\service\udelay\inc\sl_udelay.h \
  c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\hardware\driver\mx25_flash_shutdown\inc\sl_mx25_flash_shutdown.h \
- C:\Users\yangj\SimplicityStudio\v5_workspace\simple_trx\config/sl_mx25_flash_shutdown_config.h
+ C:\work\te\config/sl_mx25_flash_shutdown_config.h
 
 c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\common\toolchain\inc\sl_gcc_preinclude.h:
 
@@ -194,4 +194,4 @@ c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\
 
 c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\hardware\driver\mx25_flash_shutdown\inc\sl_mx25_flash_shutdown.h:
 
-C:\Users\yangj\SimplicityStudio\v5_workspace\simple_trx\config/sl_mx25_flash_shutdown_config.h:
+C:\work\te\config/sl_mx25_flash_shutdown_config.h:

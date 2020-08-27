@@ -2,7 +2,7 @@ gecko_sdk_3.0.0/platform/service/sleeptimer/src/sl_sleeptimer_hal_prortc.o: \
  C:/SiliconLabs/SimplicityStudio/v5/developer/sdks/gecko_sdk_suite/v3.0/platform/service/sleeptimer/src/sl_sleeptimer_hal_prortc.c \
  c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\common\toolchain\inc\sl_gcc_preinclude.h \
  c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\service\sleeptimer\inc\sl_sleeptimer.h \
- C:\Users\yangj\SimplicityStudio\v5_workspace\simple_trx\config/sl_sleeptimer_config.h \
+ C:\work\te\config/sl_sleeptimer_config.h \
  c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\device\siliconlabs\efr32fg14p\include\em_device.h \
  c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\device\siliconlabs\efr32fg14p\include\efr32fg14p233f256gm48.h \
  c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\cmsis\include\core_cm4.h \
@@ -67,13 +67,13 @@ gecko_sdk_3.0.0/platform/service/sleeptimer/src/sl_sleeptimer_hal_prortc.o: \
  c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\emlib\inc\em_bus.h \
  c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\emlib\inc\em_gpio.h \
  c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\emlib\inc\em_bus.h \
- C:\Users\yangj\SimplicityStudio\v5_workspace\simple_trx\autogen/sl_component_catalog.h
+ C:\work\te\autogen/sl_component_catalog.h
 
 c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\common\toolchain\inc\sl_gcc_preinclude.h:
 
 c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\service\sleeptimer\inc\sl_sleeptimer.h:
 
-C:\Users\yangj\SimplicityStudio\v5_workspace\simple_trx\config/sl_sleeptimer_config.h:
+C:\work\te\config/sl_sleeptimer_config.h:
 
 c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\device\siliconlabs\efr32fg14p\include\em_device.h:
 
@@ -203,4 +203,4 @@ c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\
 
 c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\emlib\inc\em_bus.h:
 
-C:\Users\yangj\SimplicityStudio\v5_workspace\simple_trx\autogen/sl_component_catalog.h:
+C:\work\te\autogen/sl_component_catalog.h:

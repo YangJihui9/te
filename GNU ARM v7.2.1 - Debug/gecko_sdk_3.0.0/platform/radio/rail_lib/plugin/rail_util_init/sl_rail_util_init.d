@@ -58,7 +58,7 @@ gecko_sdk_3.0.0/platform/radio/rail_lib/plugin/rail_util_init/sl_rail_util_init.
  c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\device\siliconlabs\efr32fg14p\include\efr32fg14p_af_pins.h \
  c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\emdrv\dmadrv\inc\dmadrv.h \
  c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\emdrv\common\inc\ecode.h \
- C:\Users\yangj\SimplicityStudio\v5_workspace\simple_trx\config/dmadrv_config.h \
+ C:\work\te\config/dmadrv_config.h \
  c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\radio\rail_lib\common\rail.h \
  c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\radio\rail_lib\chip\efr32\efr32xg1x\rail_chip_specific.h \
  c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\emlib\inc\em_gpio.h \
@@ -70,8 +70,8 @@ gecko_sdk_3.0.0/platform/radio/rail_lib/plugin/rail_util_init/sl_rail_util_init.
  c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\radio\rail_lib\common\rail_assert_error_codes.h \
  c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\radio\rail_lib\protocol\ble\rail_ble.h \
  C:/SiliconLabs/SimplicityStudio/v5/developer/sdks/gecko_sdk_suite/v3.0/platform/radio/rail_lib/plugin/rail_util_init/sl_rail_util_init.h \
- C:\Users\yangj\SimplicityStudio\v5_workspace\simple_trx\config/sl_rail_util_init_config.h \
- C:\Users\yangj\SimplicityStudio\v5_workspace\simple_trx\autogen/rail_config.h
+ C:\work\te\config/sl_rail_util_init_config.h \
+ C:\work\te\autogen/rail_config.h
 
 c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\common\toolchain\inc\sl_gcc_preinclude.h:
 
@@ -189,7 +189,7 @@ c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\
 
 c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\emdrv\common\inc\ecode.h:
 
-C:\Users\yangj\SimplicityStudio\v5_workspace\simple_trx\config/dmadrv_config.h:
+C:\work\te\config/dmadrv_config.h:
 
 c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\radio\rail_lib\common\rail.h:
 
@@ -213,6 +213,6 @@ c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\
 
 C:/SiliconLabs/SimplicityStudio/v5/developer/sdks/gecko_sdk_suite/v3.0/platform/radio/rail_lib/plugin/rail_util_init/sl_rail_util_init.h:
 
-C:\Users\yangj\SimplicityStudio\v5_workspace\simple_trx\config/sl_rail_util_init_config.h:
+C:\work\te\config/sl_rail_util_init_config.h:
 
-C:\Users\yangj\SimplicityStudio\v5_workspace\simple_trx\autogen/rail_config.h:
+C:\work\te\autogen/rail_config.h:

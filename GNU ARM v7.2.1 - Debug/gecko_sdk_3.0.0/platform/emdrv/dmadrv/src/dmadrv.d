@@ -64,7 +64,7 @@ gecko_sdk_3.0.0/platform/emdrv/dmadrv/src/dmadrv.o: \
  c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\emdrv\dmadrv\inc\dmadrv.h \
  c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\emdrv\common\inc\ecode.h \
  c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\emlib\inc\em_ldma.h \
- C:\Users\yangj\SimplicityStudio\v5_workspace\simple_trx\config/dmadrv_config.h
+ C:\work\te\config/dmadrv_config.h
 
 c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\common\toolchain\inc\sl_gcc_preinclude.h:
 
@@ -194,4 +194,4 @@ c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\
 
 c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\emlib\inc\em_ldma.h:
 
-C:\Users\yangj\SimplicityStudio\v5_workspace\simple_trx\config/dmadrv_config.h:
+C:\work\te\config/dmadrv_config.h:

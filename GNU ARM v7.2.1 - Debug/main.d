@@ -1,6 +1,6 @@
 main.o: ../main.c \
  c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\common\toolchain\inc\sl_gcc_preinclude.h \
- C:\Users\yangj\SimplicityStudio\v5_workspace\simple_trx\autogen/sl_component_catalog.h \
+ C:\work\te\autogen/sl_component_catalog.h \
  c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\service\system\inc\sl_system_init.h \
  ../app_init.h \
  c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\radio\rail_lib\common\rail.h \
@@ -71,7 +71,7 @@ main.o: ../main.c \
 
 c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\common\toolchain\inc\sl_gcc_preinclude.h:
 
-C:\Users\yangj\SimplicityStudio\v5_workspace\simple_trx\autogen/sl_component_catalog.h:
+C:\work\te\autogen/sl_component_catalog.h:
 
 c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\service\system\inc\sl_system_init.h:
 

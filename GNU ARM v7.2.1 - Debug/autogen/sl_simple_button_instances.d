@@ -62,8 +62,8 @@ autogen/sl_simple_button_instances.o: \
  c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\emlib\inc\em_gpio.h \
  c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\emlib\inc\em_bus.h \
  c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\common\inc\sl_status.h \
- C:\Users\yangj\SimplicityStudio\v5_workspace\simple_trx\config/sl_simple_button_btn0_config.h \
- C:\Users\yangj\SimplicityStudio\v5_workspace\simple_trx\config/sl_simple_button_btn1_config.h
+ C:\work\te\config/sl_simple_button_btn0_config.h \
+ C:\work\te\config/sl_simple_button_btn1_config.h
 
 c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\common\toolchain\inc\sl_gcc_preinclude.h:
 
@@ -189,6 +189,6 @@ c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\
 
 c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\common\inc\sl_status.h:
 
-C:\Users\yangj\SimplicityStudio\v5_workspace\simple_trx\config/sl_simple_button_btn0_config.h:
+C:\work\te\config/sl_simple_button_btn0_config.h:
 
-C:\Users\yangj\SimplicityStudio\v5_workspace\simple_trx\config/sl_simple_button_btn1_config.h:
+C:\work\te\config/sl_simple_button_btn1_config.h:

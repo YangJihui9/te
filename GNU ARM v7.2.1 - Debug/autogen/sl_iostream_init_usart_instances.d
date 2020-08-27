@@ -57,7 +57,7 @@ autogen/sl_iostream_init_usart_instances.o: \
  c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\device\siliconlabs\efr32fg14p\include\efr32fg14p_af_ports.h \
  c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\device\siliconlabs\efr32fg14p\include\efr32fg14p_af_pins.h \
  c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\service\iostream\inc\sl_iostream.h \
- C:\Users\yangj\SimplicityStudio\v5_workspace\simple_trx\autogen/sl_component_catalog.h \
+ C:\work\te\autogen/sl_component_catalog.h \
  c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\common\inc\sl_status.h \
  c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\common\inc\sl_enum.h \
  c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\service\iostream\inc\sl_iostream_uart.h \
@@ -66,9 +66,9 @@ autogen/sl_iostream_init_usart_instances.o: \
  c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\micrium_os\cpu\include\cpu.h \
  c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\micrium_os\cpu\include\cpu_def.h \
  c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\micrium_os\common\include\rtos_path.h \
- C:\Users\yangj\SimplicityStudio\v5_workspace\simple_trx\autogen/rtos_description.h \
+ C:\work\te\autogen/rtos_description.h \
  c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\micrium_os\common\include\rtos_opt_def.h \
- C:\Users\yangj\SimplicityStudio\v5_workspace\simple_trx\config/cpu_cfg.h \
+ C:\work\te\config/cpu_cfg.h \
  c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\micrium_os\cpu\include\cpu_def.h \
  c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\micrium_os\cpu\include\cpu_port_sel.h \
  c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\micrium_os\ports\source\gnu\armv7m_cpu_port.h \
@@ -79,20 +79,19 @@ autogen/sl_iostream_init_usart_instances.o: \
  c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\micrium_os\cpu\include\cpu_port_sel.h \
  c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\micrium_os\common\include\lib_def.h \
  c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\micrium_os\common\include\toolchains.h \
- C:\Users\yangj\SimplicityStudio\v5_workspace\simple_trx\config/rtos_err_cfg.h \
+ C:\work\te\config/rtos_err_cfg.h \
  c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\micrium_os\common\include\lib_mem.h \
- C:\Users\yangj\SimplicityStudio\v5_workspace\simple_trx\config/common_cfg.h \
+ C:\work\te\config/common_cfg.h \
  c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\micrium_os\common\include\lib_math.h \
  c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\micrium_os\common\include\lib_utils.h \
  c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\micrium_os\common\include\rtos_version.h \
  c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\micrium_os\common\include\rtos_utils.h \
- C:\Users\yangj\SimplicityStudio\v5_workspace\simple_trx\config/rtos_cfg.h \
- C:\Users\yangj\SimplicityStudio\v5_workspace\simple_trx\config/os_cfg.h \
+ C:\work\te\config/rtos_cfg.h C:\work\te\config/os_cfg.h \
  c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\micrium_os\kernel\include\os_type.h \
  c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\micrium_os\kernel\include\os_port_sel.h \
  c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\micrium_os\ports\source\gnu\armv7m_os_cpu.h \
  c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\service\sleeptimer\inc\sl_sleeptimer.h \
- C:\Users\yangj\SimplicityStudio\v5_workspace\simple_trx\config/sl_sleeptimer_config.h \
+ C:\work\te\config/sl_sleeptimer_config.h \
  c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\service\iostream\inc\sl_iostream_usart.h \
  c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\service\iostream\inc\sl_iostream_uart.h \
  c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\emlib\inc\em_cmu.h \
@@ -100,7 +99,7 @@ autogen/sl_iostream_init_usart_instances.o: \
  c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\emlib\inc\em_gpio.h \
  c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\emlib\inc\em_gpio.h \
  c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\emlib\inc\em_usart.h \
- C:\Users\yangj\SimplicityStudio\v5_workspace\simple_trx\config/sl_iostream_usart_vcom_config.h
+ C:\work\te\config/sl_iostream_usart_vcom_config.h
 
 c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\common\toolchain\inc\sl_gcc_preinclude.h:
 
@@ -216,7 +215,7 @@ c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\
 
 c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\service\iostream\inc\sl_iostream.h:
 
-C:\Users\yangj\SimplicityStudio\v5_workspace\simple_trx\autogen/sl_component_catalog.h:
+C:\work\te\autogen/sl_component_catalog.h:
 
 c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\common\inc\sl_status.h:
 
@@ -234,11 +233,11 @@ c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\
 
 c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\micrium_os\common\include\rtos_path.h:
 
-C:\Users\yangj\SimplicityStudio\v5_workspace\simple_trx\autogen/rtos_description.h:
+C:\work\te\autogen/rtos_description.h:
 
 c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\micrium_os\common\include\rtos_opt_def.h:
 
-C:\Users\yangj\SimplicityStudio\v5_workspace\simple_trx\config/cpu_cfg.h:
+C:\work\te\config/cpu_cfg.h:
 
 c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\micrium_os\cpu\include\cpu_def.h:
 
@@ -260,11 +259,11 @@ c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\
 
 c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\micrium_os\common\include\toolchains.h:
 
-C:\Users\yangj\SimplicityStudio\v5_workspace\simple_trx\config/rtos_err_cfg.h:
+C:\work\te\config/rtos_err_cfg.h:
 
 c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\micrium_os\common\include\lib_mem.h:
 
-C:\Users\yangj\SimplicityStudio\v5_workspace\simple_trx\config/common_cfg.h:
+C:\work\te\config/common_cfg.h:
 
 c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\micrium_os\common\include\lib_math.h:
 
@@ -274,9 +273,9 @@ c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\
 
 c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\micrium_os\common\include\rtos_utils.h:
 
-C:\Users\yangj\SimplicityStudio\v5_workspace\simple_trx\config/rtos_cfg.h:
+C:\work\te\config/rtos_cfg.h:
 
-C:\Users\yangj\SimplicityStudio\v5_workspace\simple_trx\config/os_cfg.h:
+C:\work\te\config/os_cfg.h:
 
 c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\micrium_os\kernel\include\os_type.h:
 
@@ -286,7 +285,7 @@ c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\
 
 c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\service\sleeptimer\inc\sl_sleeptimer.h:
 
-C:\Users\yangj\SimplicityStudio\v5_workspace\simple_trx\config/sl_sleeptimer_config.h:
+C:\work\te\config/sl_sleeptimer_config.h:
 
 c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\service\iostream\inc\sl_iostream_usart.h:
 
@@ -302,4 +301,4 @@ c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\
 
 c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\emlib\inc\em_usart.h:
 
-C:\Users\yangj\SimplicityStudio\v5_workspace\simple_trx\config/sl_iostream_usart_vcom_config.h:
+C:\work\te\config/sl_iostream_usart_vcom_config.h:

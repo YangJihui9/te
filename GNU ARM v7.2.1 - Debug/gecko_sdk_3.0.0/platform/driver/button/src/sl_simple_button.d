@@ -62,7 +62,7 @@ gecko_sdk_3.0.0/platform/driver/button/src/sl_simple_button.o: \
  c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\emlib\inc\em_gpio.h \
  c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\emlib\inc\em_bus.h \
  c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\common\inc\sl_status.h \
- C:\Users\yangj\SimplicityStudio\v5_workspace\simple_trx\config/sl_simple_button_config.h \
+ C:\work\te\config/sl_simple_button_config.h \
  c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\emdrv\gpiointerrupt\inc\gpiointerrupt.h \
  c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\emlib\inc\em_cmu.h \
  c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\emlib\inc\em_gpio.h \
@@ -192,7 +192,7 @@ c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\
 
 c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\common\inc\sl_status.h:
 
-C:\Users\yangj\SimplicityStudio\v5_workspace\simple_trx\config/sl_simple_button_config.h:
+C:\work\te\config/sl_simple_button_config.h:
 
 c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\emdrv\gpiointerrupt\inc\gpiointerrupt.h:
 

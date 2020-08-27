@@ -3,7 +3,7 @@ gecko_sdk_3.0.0/platform/service/device_init/src/sl_device_init_dcdc_s1.o: \
  c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\common\toolchain\inc\sl_gcc_preinclude.h \
  c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\service\device_init\inc\sl_device_init_dcdc.h \
  c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\common\inc\sl_status.h \
- C:\Users\yangj\SimplicityStudio\v5_workspace\simple_trx\config/sl_device_init_dcdc_config.h \
+ C:\work\te\config/sl_device_init_dcdc_config.h \
  c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\emlib\inc\em_emu.h \
  c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\device\siliconlabs\efr32fg14p\include\em_device.h \
  c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\device\siliconlabs\efr32fg14p\include\efr32fg14p233f256gm48.h \
@@ -67,7 +67,7 @@ c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\
 
 c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\common\inc\sl_status.h:
 
-C:\Users\yangj\SimplicityStudio\v5_workspace\simple_trx\config/sl_device_init_dcdc_config.h:
+C:\work\te\config/sl_device_init_dcdc_config.h:
 
 c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\emlib\inc\em_emu.h:
 

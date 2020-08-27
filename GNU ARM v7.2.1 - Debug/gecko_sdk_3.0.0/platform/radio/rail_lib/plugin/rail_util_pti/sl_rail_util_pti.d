@@ -65,7 +65,7 @@ gecko_sdk_3.0.0/platform/radio/rail_lib/plugin/rail_util_pti/sl_rail_util_pti.o:
  c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\radio\rail_lib\common\rail_types.h \
  c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\radio\rail_lib\common\rail_assert_error_codes.h \
  C:/SiliconLabs/SimplicityStudio/v5/developer/sdks/gecko_sdk_suite/v3.0/platform/radio/rail_lib/plugin/rail_util_pti/sl_rail_util_pti.h \
- C:\Users\yangj\SimplicityStudio\v5_workspace\simple_trx\config/sl_rail_util_pti_config.h
+ C:\work\te\config/sl_rail_util_pti_config.h
 
 c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\common\toolchain\inc\sl_gcc_preinclude.h:
 
@@ -197,4 +197,4 @@ c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\
 
 C:/SiliconLabs/SimplicityStudio/v5/developer/sdks/gecko_sdk_suite/v3.0/platform/radio/rail_lib/plugin/rail_util_pti/sl_rail_util_pti.h:
 
-C:\Users\yangj\SimplicityStudio\v5_workspace\simple_trx\config/sl_rail_util_pti_config.h:
+C:\work\te\config/sl_rail_util_pti_config.h:

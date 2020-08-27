@@ -1,6 +1,6 @@
 app_init.o: ../app_init.c \
  c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\common\toolchain\inc\sl_gcc_preinclude.h \
- C:\Users\yangj\SimplicityStudio\v5_workspace\simple_trx\autogen/sl_component_catalog.h \
+ C:\work\te\autogen/sl_component_catalog.h \
  c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\radio\rail_lib\common\rail.h \
  c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\radio\rail_lib\chip\efr32\efr32xg1x\rail_chip_specific.h \
  c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\emlib\inc\em_gpio.h \
@@ -66,7 +66,7 @@ app_init.o: ../app_init.c \
  c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\radio\rail_lib\common\rail_assert_error_codes.h \
  c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\radio\rail_lib\plugin\rail_util_init\sl_rail_util_init.h \
  ../app_iostream_usart.h ../app_process.h \
- C:\Users\yangj\SimplicityStudio\v5_workspace\simple_trx\autogen/sl_simple_led_instances.h \
+ C:\work\te\autogen/sl_simple_led_instances.h \
  c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\driver\leddrv\inc\sl_simple_led.h \
  c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\driver\leddrv\inc\sl_led.h \
  c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\common\inc\sl_status.h \
@@ -76,7 +76,7 @@ app_init.o: ../app_init.c \
 
 c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\common\toolchain\inc\sl_gcc_preinclude.h:
 
-C:\Users\yangj\SimplicityStudio\v5_workspace\simple_trx\autogen/sl_component_catalog.h:
+C:\work\te\autogen/sl_component_catalog.h:
 
 c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\radio\rail_lib\common\rail.h:
 
@@ -210,7 +210,7 @@ c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\
 
 ../app_process.h:
 
-C:\Users\yangj\SimplicityStudio\v5_workspace\simple_trx\autogen/sl_simple_led_instances.h:
+C:\work\te\autogen/sl_simple_led_instances.h:
 
 c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\driver\leddrv\inc\sl_simple_led.h:
 

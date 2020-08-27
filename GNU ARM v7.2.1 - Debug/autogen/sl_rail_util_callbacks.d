@@ -66,7 +66,7 @@ autogen/sl_rail_util_callbacks.o: ../autogen/sl_rail_util_callbacks.c \
  c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\radio\rail_lib\common\rail_types.h \
  c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\radio\rail_lib\common\rail_assert_error_codes.h \
  c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\radio\rail_lib\plugin\pa-conversions\pa_conversions_efr32.h \
- C:\Users\yangj\SimplicityStudio\v5_workspace\simple_trx\config/sl_rail_util_pa_config.h \
+ C:\work\te\config/sl_rail_util_pa_config.h \
  c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\radio\rail_lib\plugin\pa-conversions\pa_curves_efr32.h \
  c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\radio\rail_lib\plugin\pa-conversions\efr32xg1x/sl_rail_util_pa_curves.h \
  c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\radio\rail_lib\plugin\pa-conversions\pa_curve_types_efr32.h
@@ -205,7 +205,7 @@ c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\
 
 c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\radio\rail_lib\plugin\pa-conversions\pa_conversions_efr32.h:
 
-C:\Users\yangj\SimplicityStudio\v5_workspace\simple_trx\config/sl_rail_util_pa_config.h:
+C:\work\te\config/sl_rail_util_pa_config.h:
 
 c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\radio\rail_lib\plugin\pa-conversions\pa_curves_efr32.h:
 

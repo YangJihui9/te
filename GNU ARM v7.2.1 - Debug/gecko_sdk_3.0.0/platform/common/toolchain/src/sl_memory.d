@@ -3,7 +3,7 @@ gecko_sdk_3.0.0/platform/common/toolchain/src/sl_memory.o: \
  c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\common\toolchain\inc\sl_gcc_preinclude.h \
  c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\common\toolchain\inc\sl_memory.h \
  c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\common\toolchain\inc\sl_memory_region.h \
- C:\Users\yangj\SimplicityStudio\v5_workspace\simple_trx\config/sl_memory_config.h
+ C:\work\te\config/sl_memory_config.h
 
 c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\common\toolchain\inc\sl_gcc_preinclude.h:
 
@@ -11,4 +11,4 @@ c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\
 
 c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\common\toolchain\inc\sl_memory_region.h:
 
-C:\Users\yangj\SimplicityStudio\v5_workspace\simple_trx\config/sl_memory_config.h:
+C:\work\te\config/sl_memory_config.h:

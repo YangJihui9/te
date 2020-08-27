@@ -4,7 +4,7 @@ gecko_sdk_3.0.0/hardware/board/src/sl_board_control_gpio.o: \
  c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\hardware\board\inc\sl_board_control.h \
  c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\common\inc\sl_status.h \
  c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\common\inc\sl_enum.h \
- C:\Users\yangj\SimplicityStudio\v5_workspace\simple_trx\config/sl_board_control_config.h \
+ C:\work\te\config/sl_board_control_config.h \
  c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\emlib\inc\em_gpio.h \
  c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\device\siliconlabs\efr32fg14p\include\em_device.h \
  c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\device\siliconlabs\efr32fg14p\include\efr32fg14p233f256gm48.h \
@@ -71,7 +71,7 @@ c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\
 
 c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\common\inc\sl_enum.h:
 
-C:\Users\yangj\SimplicityStudio\v5_workspace\simple_trx\config/sl_board_control_config.h:
+C:\work\te\config/sl_board_control_config.h:
 
 c:\siliconlabs\simplicitystudio\v5\developer\sdks\gecko_sdk_suite\v3.0\platform\emlib\inc\em_gpio.h:
 
